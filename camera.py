@@ -4,13 +4,13 @@ from ultralytics import YOLO
 
 model = YOLO('best-4.pt')
 
-cap = cv2.VideoCapture("IMG_7689.MOV")
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 if not cap.isOpened():
     print("camera failed to open")
     exit()
 
-print("odel is working, press q to exit")
+print("model is working, press q to exit")
 
 while True:
     # kameradan bir kare okur
