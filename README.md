@@ -7,7 +7,7 @@ This project is a real time object detection app for smart dashcam system.
 * YOLO (Ultralytics)
 * OpenCV
 
-<img width="3024" height="1782" alt="image" src="https://github.com/user-attachments/assets/6b25f025-8967-434b-8602-879000132cd4" />
+<img width="800" height="450" alt="cardetection" src="https://github.com/user-attachments/assets/305e9fe3-0624-43b2-9ba0-9a6fbb53400d" />
 
 
 ## Installation and Execution
